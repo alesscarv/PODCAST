@@ -6,15 +6,8 @@
 </p>
 
 <p align="center">
-<a href="https://dio.me/">
-    <img 
-        src="https://img.shields.io/badge/DIO-Code_The_Future-28DA77?logo=youtube" 
-        alt="DIO - Code The Future">
-</a>
-<a href="https://dio.me/">
-<img 
-    src="https://img.shields.io/badge/🔴_LIVE_CODE-FF5E72" 
-    alt="🔴 LIVE CODE">
+<a href="https://github.com/alesscarv/PODCAST/blob/main/ElevenLabs_2025-01-17T03_32_51_Rachel_pre_s50_sb75_se0_b_m2.mp3">
+   
 </a>
 </p>
 
