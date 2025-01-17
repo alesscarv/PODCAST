@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="https://github.com/alesscarv/PODCAST/blob/main/APODCA~1.PNG"
+    https://github.com/alesscarv/PODCAST/blob/main/APODCA~1.PNG
     width="300"
 />
 </p>
