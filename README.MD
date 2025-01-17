@@ -11,9 +11,7 @@
 </a>
 </p>
 
-<p align="center">
-    preview do podcast
-</p>
+
 
 
 # Projeto Podcast Gerado por I.A.s
