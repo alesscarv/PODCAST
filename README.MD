@@ -1,12 +1,12 @@
 <p align="center">
 <img 
-    https://github.com/alesscarv/PODCAST/blob/main/APODCA~1.PNG
+    (https://github.com/alesscarv/PODCAST/blob/main/APODCA~1.PNG)
     width="300"
 />
 </p>
 
 
- Podcast Entre Mentes: A Ansiedade Descomplicada src= "https://github.com/alesscarv/PODCAST/blob/main/ElevenLabs_2025-01-17T03_32_51_Rachel_pre_s50_sb75_se0_b_m2.mp3"
+ Podcast Entre Mentes: A Ansiedade Descomplicada https://github.com/alesscarv/PODCAST/blob/main/ElevenLabs_2025-01-17T03_32_51_Rachel_pre_s50_sb75_se0_b_m2.mp3
 
 </a>
 </p>
