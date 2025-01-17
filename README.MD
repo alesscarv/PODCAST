@@ -7,6 +7,7 @@
 
 
  Podcast Entre Mentes: A Ansiedade Descomplicada src= "https://github.com/alesscarv/PODCAST/blob/main/ElevenLabs_2025-01-17T03_32_51_Rachel_pre_s50_sb75_se0_b_m2.mp3"
+<audio src=<audio src="https://github.com/alesscarv/PODCAST/blob/main/ElevenLabs_2025-01-17T03_32_51_Rachel_pre_s50_sb75_se0_b_m2.mp3" controls title="Podcast editado"></audio>
 </a>
 </p>
 
