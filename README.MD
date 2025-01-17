@@ -36,9 +36,8 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através
 ## 👨‍💻 Expert
 
 
-        href="https://github.com/alesscarv">
-        GitHub
- 
+        [Alessandra Resende Carvalho](https://github.com/alesscarv)
+        GITHUB   
 
 ---
 
