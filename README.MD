@@ -16,7 +16,7 @@
 </p>
 
 <div align="center">
-    <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
+    <audio src="https://github.com/alesscarv/PODCAST/blob/main/ElevenLabs_2025-01-17T03_32_51_Rachel_pre_s50_sb75_se0_b_m2.mp3" controls title="Podcast editado"></audio>
 </div>
 
 # Projeto Podcast Gerado por I.A.s
