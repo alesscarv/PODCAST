@@ -6,7 +6,7 @@
 </p>
 
 
- ![Download MP3](sandbox:https://github.com/alesscarv/PODCAST/blob/main/ElevenLabs_2025-01-17T03_32_51_Rachel_pre_s50_sb75_se0_b_m2.mp3  
+ ![Download MP3](https://github.com/alesscarv/PODCAST/blob/main/ElevenLabs_2025-01-17T03_32_51_Rachel_pre_s50_sb75_se0_b_m2.mp3  
 </a>
 </p>
 
