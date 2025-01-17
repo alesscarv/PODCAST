@@ -33,8 +33,6 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através
 - Copilot para gerar capas
 
 
-- 🤖 3. Use os prompts de artes no `midjourney`
-
 ## 👨‍💻 Expert
 
 
