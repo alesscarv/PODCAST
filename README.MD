@@ -1,10 +1,7 @@
 <p align="center">
 <img 
-    width="500" src="https://github.com/alesscarv/PODCAST/blob/main/APODCA~1.PNG">
-</p>
-    width="300"
-/>
-</p>
+    width="300" src="https://github.com/alesscarv/PODCAST/blob/main/APODCA~1.PNG">
+
 
 
  Podcast Entre Mentes: A Ansiedade Descomplicada https://github.com/alesscarv/PODCAST/blob/main/ElevenLabs_2025-01-17T03_32_51_Rachel_pre_s50_sb75_se0_b_m2.mp3
